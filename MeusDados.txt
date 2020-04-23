@@ -1,3 +1,4 @@
 RA:
 Nome:
 Curso:
+Email:
